@@ -1,7 +1,7 @@
 # README
 My personal repository
 # 💫 About Me:
-Hi.my name is kiarash i'am programmer im interested in webdeveloping(back-end)software<br>Knowledge:c/c++ qt qlm python django bas sql/sqls oracle<br>Im also have experience wirh linux such as:ubuntu and arch<br>
+Hi.my name is kiarash i'am programmer im interested in webdeveloping(back-end)software<br>Knowledge:c/c++ qt qlm python django bas sql/sqls oracle<br>Im also have experience with linux such as:ubuntu and arch<br>
 
 
 ## 🌐 Socials:
