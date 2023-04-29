@@ -1,2 +1,2 @@
 # README
-My personal re[ository
+My personal repository
